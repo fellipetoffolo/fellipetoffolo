@@ -9,7 +9,7 @@
   Passionate about software development, especially in <b>Python</b>, eager to collaborate on innovative projects.
 </p>
 
-<p align="center">
+<p>
   🌱 Currently learning: 
   <br/>
   <ul> 

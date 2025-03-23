@@ -1,5 +1,23 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>I'm currently working as a scholarship fellow at Itaipu Parquetec and recently graduated with a bachelor's degree in Computer Science.<br><br>I’m passionate about software development, especially in Python, and looking forward to collaborating on innovative software projects.<br><br>🌱 Currently Learning<br><br> - Linux Kernel Development<br><br> - Web Development with Python, Dash, and React-Vite<br><br> - Embedded software development<br><br> - High-Performance computing<br><br>🎲 Fun fact<br>I collect coffee mugs from every tech conference I attend—each cup fuels both my coding sessions and my memories!
+<h3 align="center">👋 Hi there! I'm Fellipe Toffolo</h3>
+
+<p align="center">
+  I'm currently working as a <b>scholarship fellow at Itaipu Parquetec</b> and recently graduated with a bachelor's degree in <b>Computer Science</b>. 🚀
+</p>
+
+<p align="center">
+  Passionate about software development, especially in <b>Python</b>, eager to collaborate on innovative projects.
+</p>
+
+<p align="center">
+  🌱 Currently learning: 
+  <br/>
+  <code>Linux Kernel Development</code> •
+  <code>Web Development (Python, Dash, React-Vite)</code> •
+  <code>Embedded software development</code> •
+  <code>High-Performance computing</code>
+</p>
+
 
 
 ## 🌐 Socials:

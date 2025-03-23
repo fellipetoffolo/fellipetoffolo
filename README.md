@@ -12,10 +12,12 @@
 <p align="center">
   🌱 Currently learning: 
   <br/>
-  <code>Linux Kernel Development</code> •
-  <code>Web Development (Python, Dash, React-Vite)</code> •
-  <code>Embedded software development</code> •
-  <code>High-Performance computing</code>
+  <ul> 
+    <li>Linux Kernel Development</li> 
+    <li>Web Development (Python, Dash, React-Vite)</li>
+    <li>Embedded software development</li>
+    <li>High-Performance computing</li>
+  </ul>
 </p>
 
 

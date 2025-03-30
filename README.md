@@ -13,10 +13,11 @@
   🌱 Currently learning: 
   <br/>
   <ul> 
-    <li>Linux Kernel Development</li> 
-    <li>Web Development (Python, Dash, React-Vite)</li>
+    <li>Linux</li> 
+    <li>Web Development (Dash and React-Vite)</li>
     <li>Embedded software development</li>
     <li>High-Performance computing</li>
+    <li>Google Cloud</li>
   </ul>
 </p>
 

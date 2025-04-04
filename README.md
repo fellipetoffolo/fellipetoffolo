@@ -31,8 +31,8 @@
 # 📊 GitHub Stats:
 <!-- GitHub Stats -->
 <p align="center">
-  <img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=fellipetoffolo&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img width="48%" height="100%" src="https://nirzak-streak-stats.vercel.app/?user=fellipetoffolo&theme=dark&hide_border=false" />
+  <img width="48%" height="185px" src="https://github-readme-stats.vercel.app/api?username=fellipetoffolo&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img width="48%" height="185px" src="https://nirzak-streak-stats.vercel.app/?user=fellipetoffolo&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">

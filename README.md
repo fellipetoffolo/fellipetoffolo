@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Passionate about software development, especially in <b>Python</b>, eager to collaborate on innovative projects.
+  Passionate about learning and engaging in tech initiatives, eager to collaborate on innovative projects.
 </p>
 
 <p>
